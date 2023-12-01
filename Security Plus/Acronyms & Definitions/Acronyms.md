@@ -1,0 +1,84 @@
+#acronyms  
+- AAA - Authentication, Authorization, Accounting ^AAA
+- ALE - Annualized Loss Expectancy
+- ARO - Annualized Rate of Occurrence
+- ARP - Address Resolution Protocol
+- BPA - Business Partnership Agreement
+- BYOD - Bring Your Own Device
+- CA - Certificate Authority
+- CER - Crossover Rejection Rate
+- CIA - Confidentiality, Integrity, Availability
+- CISO - Chief Information Security Officer
+- CMDB - Configuration Management Database
+- CRL - Certificate Revocation List
+- CSO - Chief Security Officer
+- CSR - Certificate Signing Request
+- DAC -Discretionary Access Control
+- DES - Data Encryption Standard
+- DHCP - Dynamic Host Configuration Protocol
+- DLL Injection - Dynamic Link Library
+- DNS - Domain Name Service
+- Default Trivial File Transfer Protocol
+- EAP - Extensible Authentication Protocol
+- EDR - Endpoint Detection and Response
+- FAR - False Acceptance Rate
+- FDE - Full Disk Encryption
+- FedRAMP - Government Cloud
+- FIM - Federated Identity Management
+- FISMA - Federal Information Security Management Act
+- FRR - False Rejection Rate
+- GDPR - General Data Protection Regulation
+- GPO - Group Policy Object
+- HIPAA - Health Insurance Portability and Accountability Act
+- HMAC - Hash-based Message Authentication Code
+- HOTP - HMAC-based One Time Password
+- HTTP - Hyper Text Transfer Protocol
+- ICMP - Internet Control Message Protocol
+- LDAP - Lightweight Directory Access Protocol
+- MAC - Media Access Control
+- MD5 - Message Digest v5
+- MDM - Mobile Device Management
+- MFA - Multi Factor Authentication
+- MSA - Measure Systems Analysis
+- MITRE ATT&CK - MIT Research and Engineering Adversarial Tactics, Techniques & Common Knowledge
+- MTBF - Mean Time Between Failure
+- MTTF - Mean Time To Failure
+- MOU - Memorandum of Understanding
+- NDA - Non-Disclosure Agreement
+  OCSP - Online Certificate Status Protocol
+- PBKDF2 - Password-Based Key Derivation Function 2
+- PCI DSS - Payment Card Industry Data Security Standard
+- PII - Personal Identifiable Information
+- PHI - Personal Health Information
+- PSK - Pre-Shared Keys ^PSK
+- RPO - Recovery Point Objective
+- RSTP - Rapid Spanning Tree
+  RTO - Recovery Time Objective
+- SAE - Simultaneous Authentication of Equals
+- SAML - Security Assertion Markup Language
+- SED - Self Encrypting Device
+- Secure LDAP - Encrypted Lightweight Directory Access Protocol
+- SHA - Secure Hash Algorithm
+- SIEM - Security Information and Event Management
+- SLA - Service Level Agreement
+- SLE - Single Loss Expectancy
+- SOC - Security Operations Center
+- SOX - Sarbanes Oxley
+- SP - Service Provider
+- SSID - Service Set Identifier
+- SSL - Secure Socket Layer
+- STIG - Security Technical Implementation Guides
+- STIX - Structured Threat Information eXpression
+- TAXII - Trusted Automated eXchange of Indicator Information
+- TCP - Transmission Control Protocol
+- TLS - Transport Layer Security
+- TOTP - Time-based One Time Password
+- TTP - Tactics, Techniques & Procedures
+- UAC - Microsoft User Account Control
+- UDP - User Datagram Protocol
+- UPS - Uninterruptible Power Supply
+- UTM - Unified Threat Management
+- VDI - Virtual Desktop Environment ^3dc9a5
+- PEAP: Protected Extensible Authentication Protocol
+- EAP-TTLS: Extensible Authentication Protocol-Tunneled Transport Layer Security
+- EAP-MSCHAPv2: Extensible Authentication Protocol with Microsoft Challenge Handshake Authentication Protocol version 2

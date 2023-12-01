@@ -1,0 +1,1 @@
+Secure Internet Message Access Protocol is an Internet standard protocol used by email clients to retrieve email messages from a mail server over a [[TCP]]/[[IP]] connection. It is encrypted using #SSL or #TLS #definitions #email 

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"ecb28e8853c198a4","type":"group","x":280,"y":-1560,"width":1720,"height":1530,"label":"Attacks & Threats"},
+		{"id":"55cd7e29832e661c","type":"file","file":"Books to Read.md","x":-600,"y":-1825,"width":400,"height":400},
+		{"id":"1213022d088c9c89","type":"file","file":"Security Plus/Notes/Cloud.md","x":-1520,"y":-1968,"width":540,"height":687},
+		{"id":"9e1cb96638a46982","type":"file","file":"Security Plus/Notes/Virtualization.md","x":-2540,"y":-883,"width":480,"height":703},
+		{"id":"d3eb3e43fd62c390","type":"file","file":"Security Plus/Notes/Attacks & Threats/Threat Data Feeds.md","x":300,"y":-1496,"width":600,"height":643},
+		{"id":"0878697db880eb75","type":"file","file":"Security Plus/Notes/Security Measures.md","x":940,"y":-1520,"width":460,"height":501},
+		{"id":"ce10577f4be8afbf","type":"file","file":"Security Plus/Notes/Attacks & Threats/Attack Surface & Vectors.md","x":1400,"y":-1000,"width":560,"height":540},
+		{"id":"18469515e68c96ff","type":"file","file":"Security Plus/Notes/Attacks & Threats/Types of Attacks.md","x":420,"y":-776,"width":860,"height":633},
+		{"id":"a675a33021a4339a","type":"file","file":"Security Plus/Notes/Authentication Server Config.md","x":-760,"y":-180,"width":1360,"height":1240},
+		{"id":"4d1b6400d99b5487","type":"file","file":"Security Plus/Notes/Security Plus Day Notes.md","x":-3760,"y":-460,"width":900,"height":1180,"color":"6"},
+		{"id":"bbe6f34db0dc1076","type":"file","file":"Security Plus/Notes/ICMP.md","x":-2130,"y":-143,"width":880,"height":1180,"color":"6"}
+	],
+	"edges":[
+		{"id":"df7b32fcb1050501","fromNode":"bbe6f34db0dc1076","fromSide":"left","toNode":"4d1b6400d99b5487","toSide":"right"}
+	]
+}

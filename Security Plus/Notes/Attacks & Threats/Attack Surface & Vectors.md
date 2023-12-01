@@ -1,0 +1,11 @@
+#security 
+- Attack surface
+- Points where an attacker can discover/exploit vulnerabilities in a network or application
+- Vectors
+- Direct access
+- Removable media
+- Email
+- Remote and wireless  
+- Supply chain
+- Web and social media
+- Cloud

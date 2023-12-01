@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "f42e7012efb7402d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb573385ce6997ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fcce6db8d84c815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Plus/Exams/Assessment 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f99f3808089854d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "070e4c4d00c8d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Plus/Notes/Authentication Server Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56466aa94ed5216e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc8ff5eaf6b24fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Plus/Notes/ICMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f7fb1bc0b5568c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sIMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb4b804453560b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Plus/Notes/Attacks & Threats/Types of Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d57fc73387ac39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Plus/Notes/Virtualization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38aee2373818a979",
+    "type": "split",
+    "children": [
+      {
+        "id": "58692ded15d5f307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78aaf465cbef4d0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b68cda21ec878220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#standards",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02710d4858b6e837",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fada9b8e9de31868",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94ac2d1e2b75323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f7192573384fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security Plus/Notes/Attacks & Threats/Types of Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e23ae61ccc3d1c37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Security Plus/Notes/Attacks & Threats/Types of Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98fdccb325e13184",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8908778a69a15931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security Plus/Notes/Attacks & Threats/Types of Attacks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3eb4b804453560b5",
+  "lastOpenFiles": [
+    "Security Plus/Notes/Attacks & Threats/Attack Vectors.md",
+    "Security Plus/Notes/Attacks & Threats/Attack Surface & Vectors.md",
+    "Security Plus/Notes/Attacks & Threats/Types of Attacks.md",
+    "Security Plus/Notes/Attacks & Threats/Threat Data Feeds.md",
+    "Security Plus/Notes/Attacks & Threats/Threat Research Sources.md",
+    "HTTP.md",
+    "DTFTP.md",
+    "DHCP.md",
+    "Security Plus/Notes/Authentication Server Config.md",
+    "HTTPS.md",
+    "sIMAP.md",
+    "IMAP.md",
+    "Security Plus/Notes/ICMP.md",
+    "Security Plus/Notes/DNS.md",
+    "Security Plus/Acronyms & Definitions/Acronyms.md",
+    "Security Plus/Notes/Virtualization.md",
+    "Tags.md",
+    "Canvas.canvas",
+    "Untitled 1.canvas",
+    "Security Plus/Acronyms & Definitions/Definitions.md",
+    "Security Plus/Exams/Assessment 2.md",
+    "Security Plus/Notes/Nmap vs Nessus.md",
+    "Certifications.md",
+    "Security Plus/Notes/Hashing.md",
+    "Security Plus/Notes/Cloud.md",
+    "Security Plus/Notes/C.I.A Triad.md",
+    "Untitled.canvas",
+    "Security Plus/Notes/Elasticity and Scalability.md",
+    "Security Plus/Notes/Security Measures.md",
+    "Security Plus/Acronyms & Definitions",
+    "Security Plus/Notes/Attacks & Threats",
+    "Security Plus/Exams",
+    "Security Plus/Images/Raid 10.png",
+    "Security Plus/Notes",
+    "Security Plus/Images/Raid 5.png",
+    "Security Plus/Images/Raid 1.png",
+    "Security Plus/Images/HyperV2.png",
+    "Security Plus/Images/Raid 0.png",
+    "Security Plus/Images/Pasted image 20231128125629.png",
+    "Security Plus/Images/Pasted image 20231128125840.png",
+    "Security Plus/Images/HyperV1.png",
+    "Security Plus/Images/Pasted image 20231128123601.png",
+    "Security Plus/Images/Pasted image 20231128122035.png"
+  ]
+}
